@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tej1109
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning Deep Learning & AI
-- 💞️ I’m looking to collaborate on Getting a job rq, help me pwease
+- 💞️ I’m looking to collaborate on Getting a job rq, help me pwease 🐱🙏😅
 - 📫 How to reach me? Just scream my name real loud, I might just hear you
 
 <!---
